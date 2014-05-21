@@ -1,4 +1,4 @@
 mdash
 =====
 
-A lightweight analytics dashboard powered by Google APIs
+A lightweight analytics suite for custom projects powered by APIs
